@@ -1,0 +1,461 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-image: url(/img/soccer-banner-football-banner-background-cup-template-vector.jpg);
+    background-size: cover;
+}
+
+.main {
+    width: 100%;
+    height: 100vh;
+}
+
+.bgcolor {
+    background-color: #761011;
+}
+
+.navbar-brand {
+    font-family: Arial, Helvetica, sans-serif !important;
+    color: rgba(255, 255, 255, 0.811) !important;
+    font-size: 30px !important;
+
+
+}
+
+.nav-link {
+    color: white !important;
+    font-size: 17px !important;
+    font-family: Arial, Helvetica, sans-serif !important;
+}
+
+.main1 {
+    width: 100vw;
+    height: 80vh;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+}
+
+.main1-1 h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+    font-size: 35px;
+    text-align: center;
+}
+
+.main1-2 {
+    width: 15vw;
+    height: 17vh;
+    background-color: #761011;
+    border-radius: 20px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    box-shadow: -5px 5px 13px black;
+    font-family: Arial, Helvetica, sans-serif;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
+
+.main1-3 button {
+    width: 10vw;
+    height: 8vh;
+    border: none;
+    background-color: #761011;
+    color: white;
+    border-radius: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    -webkit-text-stroke-width: 0.5px;
+    -webkit-text-stroke-color: black;
+    box-shadow: -5px 5px 13px black;
+}
+
+.second {
+    height: 80vh;
+    width: 90vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.createone {
+    width: 20vw;
+    height: 40vh;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: white;
+    background-color: #761011;
+    border-radius: 10px;
+    padding-left: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: start;
+    flex-direction: column;
+    margin-left: 10%;
+    box-shadow: -5px 5px 13px black;
+}
+
+.btnedit {
+    background-color: transparent;
+    border: none;
+    color: white;
+
+
+}
+
+.result {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+    font-size: 40px;
+    text-align: center;
+    padding-left: 15%;
+    font: bold;
+}
+
+
+
+.homemain {
+    width: 100vw;
+    height: 100vh;
+    background-image: url(img/yellow-question-mark-background-with-text-space-quiz-symbol-vector.jpg);
+    background-size: cover;
+
+}
+
+.bgcolorhome {
+    background-color: #807676;
+}
+
+.navbar-brand {
+    font-family: Arial, Helvetica, sans-serif !important;
+    color: rgba(255, 255, 255, 0.811) !important;
+    font-size: 30px !important;
+
+
+}
+
+.buttonshome {
+    width: 100%;
+    height: 80vh;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+}
+
+.buttonshome button {
+    width: 10vw;
+    height: 8vh;
+    border: none;
+    background-color: wheat;
+
+    border-radius: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    -webkit-text-stroke-width: 0.5px;
+    -webkit-text-stroke-color: black;
+    box-shadow: -5px 5px 13px black;
+}
+
+.buttonshome h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 40px;
+    text-align: center;
+}
+
+.buttonshome a {
+    text-decoration: none;
+    color: black;
+}
+
+
+.cricketmain {
+    width: 100vw;
+    height: 100vh;
+    background-image: url(img/pngtree-england-vs-south-africa-3d-render-of-cricket-teams-with-tournament-picture-image_4039945.jpg);
+    background-size: cover;
+}
+
+.main1-1-cricket h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: rgb(255, 255, 255);
+    font-size: 40px;
+    text-align: center;
+}
+
+.createcricket {
+    width: 20vw;
+    height: 40vh;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: white;
+    background-color: #90dd63;
+    border-radius: 10px;
+    padding-left: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: start;
+    flex-direction: column;
+    margin-left: 10%;
+    box-shadow: -5px 5px 13px black;
+}
+
+.hockeymain {
+    width: 100vw;
+    height: 100vh;
+    background-image: url(img/pngtree-3d-rendering-of-a-hockey-rink-picture-image_4842721.jpg);
+    background-size: cover;
+}
+
+.main1-2c {
+    width: 15vw;
+    height: 17vh;
+    background-color: #90dd63;
+    border-radius: 20px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    box-shadow: -5px 5px 13px black;
+    font-family: Arial, Helvetica, sans-serif;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
+
+.main1-3c button {
+    width: 10vw;
+    height: 8vh;
+    border: none;
+    background-color: #90dd63;
+    color: white;
+    border-radius: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    -webkit-text-stroke-width: 0.5px;
+    -webkit-text-stroke-color: black;
+    box-shadow: -5px 5px 13px black;
+}
+
+.main1-2h {
+    width: 15vw;
+    height: 17vh;
+    background-color: #4461b0;
+    border-radius: 20px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    box-shadow: -5px 5px 13px black;
+    font-family: Arial, Helvetica, sans-serif;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
+
+.main1-3h button {
+    width: 10vw;
+    height: 8vh;
+    border: none;
+    background-color: #4461b0;
+    color: white;
+    border-radius: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    -webkit-text-stroke-width: 0.5px;
+    -webkit-text-stroke-color: black;
+    box-shadow: -5px 5px 13px black;
+}
+.createhockey {
+    width: 20vw;
+    height: 40vh;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: white;
+    background-color: #4461b0;
+    border-radius: 10px;
+    padding-left: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: start;
+    flex-direction: column;
+    margin-left: 10%;
+    box-shadow: -5px 5px 13px black;
+}
+.bgcolorh{
+    background-color: #4461b0;
+}
+.bgcolorcricket{
+    background-color: #90dd63;
+}
+
+@media(max-width:1441px){
+    .buttonshome button{
+        width: 15vw;
+        height: 10vh;
+    }
+    .main1-2{
+        width: 45vw;
+        height: 25vh;
+    }
+    .main1-3 button {
+        width: 25vw;
+    }
+    .createone{
+        width: 50vw;
+    }
+    .main1-2c{
+        width: 45vw;
+        height: 25vh;
+    }
+    .main1-3c button {
+        width: 25vw;
+    }
+    .createcricket{
+        
+            width: 50vw;
+    }
+    .main1-2h{
+        width: 45vw;
+        height: 25vh;
+    }
+    .main1-3h button {
+        width: 25vw;
+    }
+    .createhockey{
+
+            width: 50vw;
+    }
+}
+@media(max-width:1025px){
+    .buttonshome button{
+        width: 25vw;
+        height: 10vh;
+    }
+    .main1-2{
+        width: 45vw;
+        height: 25vh;
+    }
+    .main1-3 button {
+        width: 25vw;
+    }
+    .createone{
+        width: 80vw;
+    }
+    .main1-2c{
+        width: 45vw;
+        height: 25vh;
+    }
+    .main1-3c button {
+        width: 25vw;
+    }
+    .createcricket{
+        
+            width: 80vw;
+    }
+    .main1-2h{
+        width: 45vw;
+        height: 25vh;
+    }
+    .main1-3h button {
+        width: 25vw;
+    }
+    .createhockey{
+
+            width: 80vw;
+    }
+    
+}
+@media(max-width:769px){
+    .buttonshome button{
+        width: 35vw;
+        height: 10vh;
+    }
+    .main1-2{
+        width: 45vw;
+        height: 25vh;
+    }
+    .main1-3 button {
+        width: 25vw;
+    }
+    .createone{
+        width: 80vw;
+    }
+    .main1-2c{
+        width: 45vw;
+        height: 25vh;
+    }
+    .main1-3c button {
+        width: 25vw;
+    }
+    .createcricket{
+        
+            width: 80vw;
+    }
+    .main1-2h{
+        width: 45vw;
+        height: 25vh;
+    }
+    .main1-3h button {
+        width: 25vw;
+    }
+    .createhockey{
+
+            width: 80vw;
+    }
+
+}
+@media(max-width:426px){
+    .buttonshome button{
+        width: 55vw;
+        height: 10vh;
+
+    }
+    .main1-2{
+        width: 55vw;
+        height: 20vh;
+    }
+    .main1-3 button {
+        width: 55vw;
+    }
+    .createone{
+        width: 80vw;
+        font-size: 15px;
+    }
+    .main1-2c{
+        width: 55vw;
+        height: 20vh;
+    }
+    .main1-3c button {
+        width: 55vw;
+    }
+    .createcricket{
+        font-size: 15px;
+            width: 80vw;
+    }
+    .main1-2h{
+        width: 55vw;
+        height: 20vh;
+    }
+    .main1-3h button {
+        width: 55vw;
+    }
+    .createhockey{
+
+            width: 85vw;
+            font-size: 15px;
+    }
+    
+
+}
+
